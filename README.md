@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Higor Dornelas
 
-🎓 Architecture & Urbanism student
-💻 Tech & Data Enthusiast
-📊 Data Analyst (in progress)
-🚀 Entrepreneur & Digital Builder
+🎓 Architecture & Urbanism student 💻 Tech & Data Enthusiast 📊 Data Analyst (in progress) 🚀 Entrepreneur & Digital Builder
 
 ---
 
