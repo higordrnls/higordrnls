@@ -1,89 +1,94 @@
 # 👋 Hi, I'm Higor Dornelas
 
-🎓 Architecture & Urbanism student  
-💻 JavaScript Developer (in progress)  
-📊 Future Data Architect  
-🚀 Entrepreneur & Digital Builder  
+🎓 Architecture & Urbanism student
+💻 Tech & Data Enthusiast
+📊 Data Analyst (in progress)
+🚀 Entrepreneur & Digital Builder
 
 ---
 
 ## 🧠 About Me
 
-I’m building a multidisciplinary career at the intersection of **architecture, technology, and data**.
+I'm building a multidisciplinary career at the intersection of **business, technology, and data**.
 
-My goal is to design and develop **digital environments and intelligent systems**, combining spatial thinking with programming and data structure.
+With hands-on experience in **operations, e-commerce, and process management**, I’m transitioning into the data field, focusing on transforming real-world problems into structured insights.
 
-Currently transitioning from business and marketing into tech, with a strong focus on:
+Currently focused on:
 
-- Data Architecture  
-- Backend Development  
-- API Integration  
-- Digital Experiences & Virtual Environments  
+* Data Analysis & Visualization
+* Business Intelligence (Power BI & Excel)
+* Backend & Logic Development
+* Process Optimization
 
 ---
 
 ## 🚀 Current Journey
 
-- 📚 Studying **JavaScript** and programming logic  
-- 🔄 Transitioning into **backend and data-focused development**  
-- 🏗️ Applying architectural thinking to **digital systems**  
-- 📊 Exploring data as structure, space, and experience  
+* 📊 Developing dashboards and business insights using **Power BI**
+* 📚 Studying **JavaScript, logic, and backend fundamentals**
+* 🔄 Transitioning from operations to **data-driven roles**
+* 🧠 Applying analytical thinking to real business scenarios
 
 ---
 
 ## 🛠️ Tech & Tools
 
-- JavaScript (beginner → intermediate)
-- Git & GitHub
-- Logic Programming (Visualg)
-- ERP Systems & API Integration
-- SQL (basic knowledge)
+* Power BI
+* Excel (intermediate/advanced)
+* JavaScript (beginner → intermediate)
+* Git & GitHub
+* SQL (basic)
+* ERP Systems & Business Operations
 
 ---
 
 ## 📌 Projects
 
-🔹 **Fundamentos de JavaScript**  
-Basic logic and problem-solving using JavaScript:
-- Balance calculation (deposit/withdraw)
-- Tax calculation with conditions
-- Loop structures
+🔹 **Sales Dashboard - Power BI**
+Dashboard focused on sales performance analysis, including:
 
-👉 More projects coming soon...
+* Total revenue
+* Number of orders
+* Average ticket
+* Sales by product
+* Sales over time
+
+🔗 *Check the project in my repositories*
 
 ---
 
 ## 🌍 Languages
 
-- 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: B2 (Duolingo Certified)  
-- 🇪🇸 Spanish: B2  
+* 🇧🇷 Portuguese: Native
+* 🇺🇸 English: B2
+* 🇪🇸 Spanish: B2
 
 ---
 
 ## 💡 Vision
 
-I believe the future of architecture is not only physical.
+I believe data is a bridge between **business and decision-making**.
 
-I want to create:
-- Intelligent digital spaces  
-- Data-driven environments  
-- Interactive and immersive systems  
+My goal is to build solutions that combine:
 
-Something between **architecture, software, and experience design**.
+* Data
+* Technology
+* Real-world impact
+
+Creating systems that are not only functional, but **strategic and scalable**.
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/higor-dornelas
-- GitHub: https://github.com/higordrnls
+* LinkedIn: https://www.linkedin.com/in/higor-dornelas
+* GitHub: https://github.com/higordrnls
 
 ---
 
 ## ⚡ Fun fact
 
-I started in business and branding…  
-Now I’m building systems, logic, and digital worlds.
+I started in business and operations…
+Now I’m turning real processes into data and insights.
 
 And this is just the beginning.
