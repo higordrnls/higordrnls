@@ -1,7 +1,38 @@
-# 👋 Hi, I'm Higor Dornelas
+## Olá, me chamo <a href="https://github.com/higordrnls" target="_blank">Higor Dornelas</a>! 😄
 
-🎯 Data Analyst & Operations | Power BI · SQL · ETL  
-📍 Uberlândia, Brasil · 🌐 English B2
+- 🖥 Fullstack Developer
+
+## Veja meu <a href="https://github.com/higordrnls" target="_blank">Portfólio</a>!
+
+<a href="https://github.com/higordrnls">
+  <picture>
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api?username=higordrnls&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api?username=higordrnls&show_icons=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=higordrnls&show_icons=true" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=higordrnls&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=higordrnls" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=higordrnls" />
+  </picture>
+</a>
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Higor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Higor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Higor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Higor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Higor-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-line.svg" />
+  <img align="center" alt="Higor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
+  <img align="center" alt="Higor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Higor-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Higor-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="Higor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+<br>
 
 ---
 
@@ -9,55 +40,30 @@
 
 I'm building a career at the intersection of **business, technology, and data**.
 
-With hands-on experience in **operations, e-commerce, and process management**, I'm transitioning into the data field — focused on transforming real operational data into strategic insights.
-
-Currently working as **Data & Operations Analyst** at an e-commerce company, developing dashboards, structuring ETL pipelines, and supporting data-driven decision making.
-
----
-
-## 🚀 What I'm Working On
-
-- 📊 Building BI dashboards with **Power BI** and real business data
-- 🗃️ Deepening skills in **SQL** and **data modeling**
-- 📚 Studying **Python** for data analysis (pandas, numpy)
-- 🔄 Applying **ETL** processes in e-commerce operations
-
----
-
-## 🛠️ Tech & Tools
-
-| Data & BI | Systems & Ops | Learning |
-|---|---|---|
-| Power BI · DAX | ERP Systems | Python |
-| SQL · Power Query | Git & GitHub | pandas |
-| Excel (advanced) | ETL Pipelines | numpy |
+With hands-on experience in **operations, e-commerce, and process management**, I'm focused on transforming real operational data into strategic insights.
 
 ---
 
 ## 📌 Featured Projects
 
-### 📊 [Sales Performance Dashboard — Power BI](https://github.com/higordrnls/dashboard-vendas-powerbi)
+### 🌐 [ArchiveOne](https://github.com/higordrnls)
+Web-based archive system to organize, search, and categorize books, movies, and interviews.
+- Tools: HTML · CSS · JavaScript · Git & GitHub
+
+### 📐 [Lumear — Vedic Architecture](https://github.com/higordrnls)
+Landing page and structure based on Vedic architecture (Vastu Shastra) and the architectural studies of Silva Propério.
+- Tools: Git & GitHub
+
+### 📊 [Sales Performance Dashboard](https://github.com/higordrnls/dashboard-vendas-powerbi)
 BI dashboard analyzing monthly sales data from a retail store.
 - R$ 214K in revenue tracked · 7,924 units sold
-- KPIs: revenue, avg ticket, volume by product
-- Strategic product matrix (volume × ticket)
 - Tools: Power BI · DAX · Excel · Data Modeling
-
----
-
-## 🌍 Languages
-
-- 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: B2 (EF SET certified — 2026)
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hdornelas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hdornelas)
-[![GitHub](https://img.shields.io/badge/GitHub-higordrnls-181717?style=flat&logo=github)](https://github.com/higordrnls)
-
----
-
-> *"Data is the bridge between business and decision-making."*  
-> Turning real operations into structured insights — one dashboard at a time. 🚀
+<div> 
+ <a href="https://www.linkedin.com/in/hdornelas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
+ <a href="https://github.com/higordrnls" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
+</div>
