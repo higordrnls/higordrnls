@@ -46,12 +46,12 @@ With hands-on experience in **operations, e-commerce, and process management**, 
 
 ## 📌 Featured Projects
 
-### 🌐 [ArchiveOne](https://github.com/higordrnls)
-Web-based archive system to organize, search, and categorize books, movies, and interviews.
-- Tools: HTML · CSS · JavaScript · Git & GitHub
+### 📊 [Kanban Financeiro](https://github.com/higordrnls/Kanban-Financeiro)
+Description for Kanban Financeiro.
+- Tools: Git & GitHub
 
-### 📐 [Lumear — Vedic Architecture](https://github.com/higordrnls)
-Landing page and structure based on Vedic architecture (Vastu Shastra) and the architectural studies of Silva Propério.
+### 🔄 [ArchDaily Pipeline Creator](https://github.com/higordrnls/ArchDaily-Pipeline-Creator)
+Description for ArchDaily Pipeline Creator.
 - Tools: Git & GitHub
 
 ### 📊 [Sales Performance Dashboard](https://github.com/higordrnls/dashboard-vendas-powerbi)
