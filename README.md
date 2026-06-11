@@ -46,13 +46,13 @@ With hands-on experience in **operations, e-commerce, and process management**, 
 
 ## 📌 Featured Projects
 
-### 📊 [Kanban Financeiro](https://github.com/higordrnls/Kanban-Financeiro)
-Description for Kanban Financeiro.
-- Tools: Git & GitHub
+### 💰 [Kanban Financeiro](https://github.com/higordrnls/Kanban-Financeiro)
+Visual financial management application designed to track expenses and revenue using an interactive Trello-like interface. Features real-time cash balance updates, date filtering, dark/light mode toggle, and persistent client-side data storage without relying on external backends.
+- Tools: Vanilla JavaScript · HTML5 · CSS3 · Web Storage API (`localStorage`)
 
 ### 🔄 [ArchDaily Pipeline Creator](https://github.com/higordrnls/ArchDaily-Pipeline-Creator)
-Description for ArchDaily Pipeline Creator.
-- Tools: Git & GitHub
+Modern Serverless Monorepo application that performs real-time live web scraping of the latest architecture news. Features an on-demand Python API triggered instantly via serverless edge routes, delivering clean JSON payloads directly to a dynamic, componentized single-page frontend interface.
+- Tools: Angular · TypeScript · Python · BeautifulSoup4 · Tailwind CSS · Vercel Serverless Functions
 
 ### 📊 [Sales Performance Dashboard](https://github.com/higordrnls/dashboard-vendas-powerbi)
 BI dashboard analyzing monthly sales data from a retail store.
