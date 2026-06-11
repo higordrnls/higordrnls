@@ -61,6 +61,18 @@ BI dashboard analyzing monthly sales data from a retail store.
 
 ---
 
+### 🔮 Future Implementations & Business Ecosystems
+
+Next up on my roadmap is a dedicated Rust implementation, followed by a transition toward complex fullstack software ecosystems. These projects will combine heavy data storage, relational modeling, secure user authentication with Supabase, strong digital storytelling, and architectural concept artwork to mock realistic operations.
+
+*   **🎮 Upcoming: Gamified Platform (Rust Backend Engine):** My next core project. A high-performance, gamified backend system built in Rust designed to handle real-time state manipulation, user progression mechanics, and low-latency database interactions.
+*   **🕶️ AGADE — Sustainable Eyewear Ecosystem:** A high-end digital experience inspired by *Gentle Monster*. It models the complete circular lifecycle of 3D-printed optical frames—from raw material recycling and PET-G filament collection tracking to direct-to-consumer sales. Tracks granular metrics like exact filament weight per frame, finishing/sanding labor costs, and operational margins.
+*   **📐 Lumear — Vedic Architecture Hub:** A minimalist portal tailored after avant-garde design houses like *Manga Rosa Arquitetura*. It bridges tech with timeless Vastu Shastra principles, running specialized land appraisal logic, zoning validation, and modular calculations to determine built area, cost estimation, and unit yields.
+*   **🥟 Pastelaria — Foodservice ERP & Portal:** A bold web platform modeled after sensory culinary branding like *Musa Rio*. Serves as an integrated ERP managing multi-ingredient supply chains, calculated COGS (Cost of Goods Sold), waste prevention algorithms, and automated operational cashflow data.
+- Shared Tech Stack for Ecosystems: Supabase (Auth, Storage & Realtime DB) · SQL Data Modeling · Advanced Componentized Frontends
+
+---
+
 ## 📫 Connect with me
 
 <div> 
