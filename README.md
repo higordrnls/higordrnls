@@ -59,13 +59,17 @@ BI dashboard analyzing monthly sales data from a retail store.
 - R$ 214K in revenue tracked · 7,924 units sold
 - Tools: Power BI · DAX · Excel · Data Modeling
 
+### 🎮 [Procedural Rust Engine](https://github.com/higordrnls/retro-game-2000)
+High-performance architecture for procedurally generated worlds.
+A 2D engine built from scratch using Rust and the Bevy engine. Focused on scalability via the ECS (Entity Component System) pattern, the project implements infinite procedural terrain generation, custom physics with collision detection, a leveling system (XP/Level Up), and a game loop managed by a finite state machine (FSM).
+- Tools: Rust · Bevy Engine · ECS Architecture · Procedural Generation · State Machines · 2D Physics
+
 ---
 
 ### 🔮 Future Implementations & Business Ecosystems
 
 An ambitious roadmap bridging high-performance low-level systems, generative AI integrations, and fullstack enterprise software architectures using Supabase and advanced data modeling.
 
-*   **🎮 Upcoming: Gamified Platform (Rust Backend Engine):** My next core project. A high-performance backend architecture built in Rust designed to handle real-time state manipulation, gamified user progression mechanics, and low-latency data processing.
 *   **🏋️ Hevy AI Workout Automator (Generative AI & Integration):** An intelligent integration engine that connects LLMs to the Hevy workout platform. It processes natural language fitness goals, structures customized routine datasets into rigid JSON objects, and uses reverse-engineered web layer automation and Health Connect protocols to sync workflows directly to user profiles.
 *   **🕶️ AGADE — Sustainable Eyewear Ecosystem:** A premium direct-to-consumer digital portal inspired by *Gentle Monster*. It models the supply chain of 3D-printed optical frames—tracking PET-G recycling mass metrics, granular printer filament allocation per model, finishing labor costs, and overall profit margins.
 *   **📐 Lumear — Vedic Architecture Hub:** A minimalist CAD/Appraisal system modeled after *Manga Rosa Arquitetura*. Implements algorithms combining land metrics, local zoning laws, and Vastu Shastra design principles to output real estate feasibility, unit yield, and structural cost estimations.
