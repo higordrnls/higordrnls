@@ -155,7 +155,6 @@ Angular • Python • BeautifulSoup • Serverless Functions
 
 Some ecosystems I'm currently designing:
 
-- 🏋️ Hevy AI Workout Ecosystem
 - 🕶️ AGADE Sustainable Eyewear Platform
 - 📐 Lumear Vedic Architecture Hub
 - 🥟 Dornelas ERP
