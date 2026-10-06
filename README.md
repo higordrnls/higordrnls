@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Higor Dornelas
 
-**Full Stack Developer • Automation • Data • AI Integrations**
+**Software Engineer • Automation • Data • AI • Product Development**
 
-I'm passionate about building software that connects real business problems with automation, data and intelligent systems.
+I build software around real problems, combining engineering, automation, data, and intelligent systems to turn ideas into practical products.
+
+I'm particularly interested in the intersection between **software engineering and product development** — from architecture and data modeling to user experience and automation.
 
 ---
 
@@ -32,8 +34,8 @@ I'm passionate about building software that connects real business problems with
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
@@ -45,21 +47,50 @@ I'm passionate about building software that connects real business problems with
 
 # 🧠 About Me
 
-I'm building my career around software engineering, automation and data.
+I'm building my career around **software engineering, automation, data, and product development**.
 
-My projects usually start from real operational problems and evolve into scalable software solutions, combining backend development, browser automation, business intelligence, APIs and modern frontend applications.
+My projects usually begin with a problem or idea and evolve into structured software systems. Depending on the problem, that can involve backend development, browser automation, APIs, data analysis, frontend applications, AI integrations, or system architecture.
 
 I'm especially interested in:
 
-- Automation
-- Full Stack Development
-- Artificial Intelligence
-- Data Engineering
-- Product Development
+* Software Engineering
+* Full Stack Development
+* Automation
+* Artificial Intelligence
+* Data Engineering
+* Product Development
+* System Architecture
+
+I also care about documenting the reasoning behind technical decisions, not just the code itself.
 
 ---
 
 # ⭐ Featured Projects
+
+## 🕶️ Agadê — Digital Eyewear Platform
+
+A conceptual Brazilian eyewear brand and digital product exploring **digital manufacturing, contemporary design, e-commerce, and circular economy**.
+
+Agadê is currently being developed as a portfolio project, with the goal of exploring the construction of a complete digital product — from brand and product definition to frontend architecture, data modeling, and future commerce infrastructure.
+
+**Highlights**
+
+* Product & UX design
+* React / TypeScript prototype
+* Product catalog architecture
+* Conceptual e-commerce experience
+* Architecture Decision Records
+* Product Requirements Documentation
+* Planned Supabase / PostgreSQL architecture
+* Digital manufacturing & circular economy concepts
+
+**Stack**
+
+React • TypeScript • Vite • Tailwind CSS • Motion
+
+👉 https://github.com/higordrnls/agade
+
+---
 
 ## 🏋️ Hevy AI Automator
 
@@ -67,12 +98,12 @@ Browser automation engine capable of transforming structured workout data into f
 
 **Highlights**
 
-- Browser Automation (Playwright)
-- JSON Workout Schema
-- Multi-provider architecture
-- AI-ready
-- Automatic workout creation
-- Intelligent exercise mapping
+* Browser Automation
+* Structured JSON workout schema
+* Multi-provider architecture
+* AI-ready architecture
+* Automatic workout creation
+* Intelligent exercise mapping
 
 **Stack**
 
@@ -86,10 +117,12 @@ TypeScript • Playwright • Zod • Node.js
 
 Interactive personal finance application inspired by Trello.
 
-- Drag-and-drop transactions
-- Cash flow tracking
-- Local persistence
-- Dark / Light mode
+**Highlights**
+
+* Drag-and-drop transactions
+* Cash flow tracking
+* Local persistence
+* Dark / Light mode
 
 **Stack**
 
@@ -103,13 +136,13 @@ JavaScript • HTML • CSS
 
 Business Intelligence dashboard built for retail sales analysis.
 
-Highlights:
+**Highlights**
 
-- R$214K revenue analyzed
-- 7,924 products tracked
-- KPI Dashboard
-- DAX
-- Data Modeling
+* R$214K revenue analyzed
+* 7,924 products tracked
+* KPI dashboard
+* DAX measures
+* Data modeling
 
 **Stack**
 
@@ -121,15 +154,15 @@ Power BI • DAX • Excel
 
 ## 🎮 Procedural Rust Engine
 
-Experimental 2D engine focused on ECS architecture and procedural generation.
+Experimental 2D game engine focused on ECS architecture and procedural generation.
 
-Highlights
+**Highlights**
 
-- Infinite procedural terrain
-- ECS Architecture
-- State Machine
-- Collision System
-- XP & Level System
+* Infinite procedural terrain
+* ECS architecture
+* State machine
+* Collision system
+* XP & level system
 
 **Stack**
 
@@ -141,7 +174,7 @@ Rust • Bevy
 
 ## 🔄 ArchDaily Pipeline Creator
 
-Serverless pipeline that scrapes architecture news and exposes structured data through APIs.
+Serverless data pipeline that collects architecture news and exposes structured information through APIs.
 
 **Stack**
 
@@ -151,28 +184,42 @@ Angular • Python • BeautifulSoup • Serverless Functions
 
 ---
 
-# 🔮 Long-term Vision
+# 🔭 What I'm Building Toward
 
-Some ecosystems I'm currently designing:
+I'm interested in building software that goes beyond isolated features and evolves into **complete, well-structured systems**.
 
-- 🕶️ AGADE Sustainable Eyewear Platform
-- 📐 Lumear Vedic Architecture Hub
-- 🥟 Dornelas ERP
+Some of the product ecosystems I'm exploring include:
 
-These projects share a common goal:
+* 🕶️ **Agadê** — Sustainable Eyewear Platform
+* 📐 **Lumear** — Vedic Architecture Platform
+* 🥟 **Dornelas ERP** — Business Management System
 
-Building scalable software that combines automation, AI and business intelligence.
+Across these projects, I'm exploring the same broader idea:
+
+> **Build software that connects product thinking, automation, data, and intelligent systems.**
+
+---
+
+# 📚 Engineering Approach
+
+I believe good software is not only about writing code.
+
+My approach increasingly involves:
+
+**Problem → Product → Architecture → Implementation → Data → Iteration**
+
+That means documenting requirements, making explicit architectural decisions, modeling data carefully, validating interfaces through prototypes, and evolving the system incrementally.
 
 ---
 
 # 📫 Contact
 
-- LinkedIn
+* **LinkedIn**
   https://linkedin.com/in/hdornelas
 
-- GitHub
+* **GitHub**
   https://github.com/higordrnls
 
 ---
 
-> "Building software that automates repetitive work and turns data into decisions."
+> **Building software that turns ideas and real-world problems into structured, intelligent systems.**
