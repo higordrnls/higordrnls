@@ -26,19 +26,15 @@ Currently deepening my work with **TypeScript, NestJS, PostgreSQL, transactional
 
 ---
 
-# 🎮 Live Project — Tigrinho de Mentirinha
+# 🕶️ Live Project — Agadê
 
-**[▶ Play the game](https://distributed-wagering-processor.pages.dev/)** · **[View the source code](https://github.com/higordrnls/distributed-wagering-processor)**
+**[▶ Explore the live prototype](https://agade.vercel.app/)** · **[Source code](https://github.com/higordrnls/agade)**
 
-A playful, mobile-first slot-machine **simulation using fictional coins only**. Built as a portfolio extension of a distributed transaction-processing study.
+An eyewear brand and digital product concept **actively under development**, exploring contemporary design, digital fabrication, circular economy, and a cohesive e-commerce experience.
 
-- **Frontend:** HTML, CSS, and JavaScript, with responsive UI and animated reels
-- **Game backend:** Cloudflare Pages Functions, with server-authoritative spin outcomes
-- **Persistence:** Neon PostgreSQL for anonymous player wallets, balances, and round history
-- **Consistency:** atomic SQL updates and idempotent spin requests
-- **Deployment:** GitHub → Cloudflare Pages
+**Current focus:** React, TypeScript, Vite, Tailwind CSS, UX, product catalog prototyping, and architecture documentation.
 
-**Architecture note:** the live game runs on its own serverless backend. It is **not connected** to the separate NestJS/SQS transaction processor described below.
+The live site is a **conceptual prototype**, not an operating store. Products and commercial information are fictional; checkout, backend services, and manufacturing operations are not live.
 
 ---
 
@@ -83,23 +79,25 @@ I also care about documenting the reasoning behind technical decisions, not just
 
 # ⭐ Featured Projects
 
-## ⚙️ Distributed Wagering Processor — Backend Engineering
+## ⚙️ Distributed Wagering Processor + 🐯 Tigrinho de Mentirinha
 
-A transaction-processing backend built to explore **financial consistency, idempotency, concurrency, and failure recovery** in distributed systems.
+**One repository, two complementary parts of the same portfolio project:** a distributed financial transaction processor and a playable fictional slot-machine demo.
 
-**Highlights**
+The **NestJS processor** explores transaction consistency, concurrency, idempotency, and recovery from infrastructure failures. The **Tigrinho de Mentirinha** adds a mobile-first, public-facing experience with a separate serverless API and persistent virtual wallets.
 
-* BET, WIN, LOSS, REFUND, and ROLLBACK operations
+**Backend engineering highlights**
+
+* BET, WIN, LOSS, REFUND, and ROLLBACK operations in the distributed processor
 * PostgreSQL transactions, wallet-level locking, and immutable ledger
-* Persistent idempotency, inbox/outbox patterns, and SQS FIFO messaging
-* Integration tests covering concurrent processing and recovery scenarios
-* Architecture documentation, trade-offs, and load-test notes
+* Persistent idempotency, inbox/outbox patterns, SQS FIFO, and recovery tests
+* Game sessions, server-generated spin results, and persistent round history in Neon PostgreSQL
+* Responsive game UI with fictional coins and no real-money betting
 
-**Stack**
+**Stack:** Bun • TypeScript • NestJS • PostgreSQL • SQS • Docker • JavaScript • Cloudflare Pages Functions • Neon
 
-Bun • TypeScript • NestJS • PostgreSQL • SQS • Docker
+**[▶ Play Tigrinho de Mentirinha](https://distributed-wagering-processor.pages.dev/)** · **[Repository](https://github.com/higordrnls/distributed-wagering-processor)** · **[Architecture case study](https://github.com/higordrnls/distributed-wagering-processor/blob/main/docs/PORTFOLIO_CASE_STUDY.md)**
 
-**[Repository and architecture](https://github.com/higordrnls/distributed-wagering-processor)** · **[Case study](https://github.com/higordrnls/distributed-wagering-processor/blob/main/docs/PORTFOLIO_CASE_STUDY.md)**
+**Architecture distinction:** both parts belong to the same project and repository, but the online game currently uses its **own Cloudflare/Neon backend**, not the NestJS/SQS transaction-processing pipeline.
 
 ---
 
@@ -224,9 +222,8 @@ Angular • Python • BeautifulSoup • Serverless Functions
 
 I'm interested in building software that goes beyond isolated features and evolves into **complete, well-structured systems**.
 
-Some of the product ecosystems I'm exploring include:
+Beyond Agadê and my current software projects, I'm also exploring future product ideas:
 
-* 🕶️ **Agadê** — Sustainable Eyewear Platform
 * 📐 **Lumear** — Vedic Architecture Platform
 * 🥟 **Dornelas ERP** — Business Management System
 
