@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Higor Dornelas
 
-**Software Engineer • Automation • Data • AI • Product Development**
+**Backend Development • Distributed Systems • Automation • Data • Product Engineering**
 
-I build software around real problems, combining engineering, automation, data, and intelligent systems to turn ideas into practical products.
+I build practical software with a focus on backend engineering, data integrity, automation, and thoughtful product experiences. My background in operations and data helps me connect technical decisions to real workflows.
 
-I'm particularly interested in the intersection between **software engineering and product development** — from architecture and data modeling to user experience and automation.
+Currently deepening my work with **TypeScript, NestJS, PostgreSQL, transactional consistency, and distributed messaging**, while shipping small, usable products end to end.
 
 ---
 
@@ -26,6 +26,22 @@ I'm particularly interested in the intersection between **software engineering a
 
 ---
 
+# 🎮 Live Project — Tigrinho de Mentirinha
+
+**[▶ Play the game](https://distributed-wagering-processor.pages.dev/)** · **[View the source code](https://github.com/higordrnls/distributed-wagering-processor)**
+
+A playful, mobile-first slot-machine **simulation using fictional coins only**. Built as a portfolio extension of a distributed transaction-processing study.
+
+- **Frontend:** HTML, CSS, and JavaScript, with responsive UI and animated reels
+- **Game backend:** Cloudflare Pages Functions, with server-authoritative spin outcomes
+- **Persistence:** Neon PostgreSQL for anonymous player wallets, balances, and round history
+- **Consistency:** atomic SQL updates and idempotent spin requests
+- **Deployment:** GitHub → Cloudflare Pages
+
+**Architecture note:** the live game runs on its own serverless backend. It is **not connected** to the separate NestJS/SQS transaction processor described below.
+
+---
+
 # 🚀 Tech Stack
 
 <p align="left">
@@ -39,7 +55,8 @@ I'm particularly interested in the intersection between **software engineering a
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>
 <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
 
 </p>
 
@@ -47,18 +64,17 @@ I'm particularly interested in the intersection between **software engineering a
 
 # 🧠 About Me
 
-I'm building my career around **software engineering, automation, data, and product development**.
+I'm developing my career in **backend software engineering**, drawing on hands-on experience in **operations, data analysis, automation, and digital products**.
 
 My projects usually begin with a problem or idea and evolve into structured software systems. Depending on the problem, that can involve backend development, browser automation, APIs, data analysis, frontend applications, AI integrations, or system architecture.
 
 I'm especially interested in:
 
-* Software Engineering
-* Full Stack Development
-* Automation
-* Artificial Intelligence
-* Data Engineering
-* Product Development
+* Backend Engineering & APIs
+* PostgreSQL, Transactions & Data Modeling
+* Distributed Systems & Messaging
+* Automation & Data Engineering
+* Full Stack Product Development
 * System Architecture
 
 I also care about documenting the reasoning behind technical decisions, not just the code itself.
@@ -66,6 +82,26 @@ I also care about documenting the reasoning behind technical decisions, not just
 ---
 
 # ⭐ Featured Projects
+
+## ⚙️ Distributed Wagering Processor — Backend Engineering
+
+A transaction-processing backend built to explore **financial consistency, idempotency, concurrency, and failure recovery** in distributed systems.
+
+**Highlights**
+
+* BET, WIN, LOSS, REFUND, and ROLLBACK operations
+* PostgreSQL transactions, wallet-level locking, and immutable ledger
+* Persistent idempotency, inbox/outbox patterns, and SQS FIFO messaging
+* Integration tests covering concurrent processing and recovery scenarios
+* Architecture documentation, trade-offs, and load-test notes
+
+**Stack**
+
+Bun • TypeScript • NestJS • PostgreSQL • SQS • Docker
+
+**[Repository and architecture](https://github.com/higordrnls/distributed-wagering-processor)** · **[Case study](https://github.com/higordrnls/distributed-wagering-processor/blob/main/docs/PORTFOLIO_CASE_STUDY.md)**
+
+---
 
 ## 🕶️ Agadê — Digital Eyewear Platform
 
